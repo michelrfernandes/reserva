@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         editable: true,
         eventLimit: true,
         initialView: 'timeGridWeek',
-        events: 'result_reserva_salas.php',
+        events: 'result_reserva_salas.php', 
         eventTimeFormat: {
             hour: '2-digit',
             minute: '2-digit',
